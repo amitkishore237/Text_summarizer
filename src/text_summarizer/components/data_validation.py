@@ -1,6 +1,4 @@
 import os
-import urllib.request as request
-import zipfile
 from src.text_summarizer.logging import logger
 from src.text_summarizer.utils.common import get_size
 from pathlib import Path
