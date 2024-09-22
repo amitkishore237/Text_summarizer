@@ -8,14 +8,14 @@ __version__ ="0.0.0"
 REPO_NAME="Text_summarizer"
 AUTHOR_USER_NAME="amitkishore237"
 SRC_REPO="text_summarizer"
-AUTHOR_EMAIL="amitkishore237@gmail.com",
+# AUTHOR_EMAIL="amitkishore237@gmail.com",
 
 
 setuptools.setup(
     name=SRC_REPO,
     version=__version__,
     author=AUTHOR_USER_NAME,
-    author_email=AUTHOR_EMAIL,
+    # author_email=AUTHOR_EMAIL,
     description="A small python package for NLP app",
     long_description=long_description,
     long_description_content="text/markdown",
